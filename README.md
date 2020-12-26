@@ -1,8 +1,8 @@
 
-### Hi there 👋, my name is Zahid
+### Hi there 👋, my name is Saikat Chandra
 #### I am a full stack web developer. PHP is my prior language choice in web development. And In designing Bootstrap I often use. I love to learn new things like frameworks and library.  
 
-- 🌱 I’m currently learning Macine learning, Data Science, React  
+- 🌱 I’m currently learning Machine learning, Data Science, React  
 - 🤔 I’m looking for help with Data Science and AI
 - 💬 Ask me about anythings
 ---
@@ -14,15 +14,15 @@
 <code><img height="20" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="PHP" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkab.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw1Fkgg36esiw5JBkbJutVAq&ust=1609052493441000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDn_euJ6-0CFQAAAAAdAAAAABAD"></code>
+
 <code><img height="20" alt="Flask" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 ---
-<a href="https://github.com/dreamlessss/dreamlessss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamlessss&hide=html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=45,4b79a1,283e51" />
+<a href="https://github.com/Saikatchandra/saikatchandra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikatchandra&hide=html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=45,4b79a1,283e51" />
 </a>
-<a href="https://github.com/dreamlessss/dreamlessss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamlessss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fcfffe&icon_color=1bb589&bg_color=30,b24592,f15f79" alt="Zahid github Stats" />
+<a href="https://github.com/Saikatchandra/saikatchandra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saikatchandra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=fcfffe&icon_color=1bb589&bg_color=30,b24592,f15f79" alt="Saikat Chandra github Stats" />
 </a>
 
 
